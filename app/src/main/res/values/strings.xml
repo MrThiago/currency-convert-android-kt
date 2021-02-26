@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Rates</string>
+    <string name="empty_amount_hint">0</string>
+    <string name="image_flag_content_description">country flag</string>
+    <string name="network_error">No Internet connection, please check network connection</string>
+    <string name="error_message">An error occurred, try again later</string>
+</resources>
